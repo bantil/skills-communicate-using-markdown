@@ -10,3 +10,8 @@ SELECT *
 FROM db1.datatable
 WHERE Year(createDate) > 2023
 ```
+
+##things to do after the headers have been created
+- [ ] write the paragraph
+- [ ] add more headers as necessary
+- [x] ~maybe~ eat some chips
