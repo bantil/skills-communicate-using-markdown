@@ -4,3 +4,9 @@ First time writing in markdown... small learning curve, but completely understan
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
 You can change the size of an image using html... duh  
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Image description" width="500" height="300">
+
+``` SQL
+SELECT *
+FROM db1.datatable
+WHERE Year(createDate) > 2023
+```
